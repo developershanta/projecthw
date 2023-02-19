@@ -1,0 +1,32 @@
+h1{
+	text-align: center;
+	text-decoration: underline;
+	background-color: blue;
+}
+.head2{
+	border: 4px dashed red;
+}
+.head3{
+	font-style: italic;
+	font-style: bold;
+	color: red;
+}
+#mata{
+	color: red;
+	border:6px solid blue;
+
+}
+h2{
+	font-size: 55px;
+}
+h3{
+	text-align: center;
+	font-style: italic;
+}
+p{
+	font-size: 44px;
+}
+img{
+	text-align: center;
+}
+
